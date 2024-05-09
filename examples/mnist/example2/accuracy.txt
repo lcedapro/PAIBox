@@ -1,0 +1,2 @@
+Accuracy in train dataset:  0.9225166666666667
+Accuracy in test dataset:  0.9246
